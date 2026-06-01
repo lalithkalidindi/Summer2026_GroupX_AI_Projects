@@ -1,4 +1,4 @@
-# Summer2026_GroupX_AI_Projects
+# Summer2026_Group3_AI_Projects
 
 My 12-Project AI-Assisted Production Pipeline Portfolio
 
