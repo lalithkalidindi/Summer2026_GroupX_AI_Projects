@@ -1,0 +1,65 @@
+Build a single file index.html (HTML/CSS/JS) progress tracker with an accessible, responsive UI and no external dependencies.  
+
+Implement client-side state management and JSON serialization/deserialization for tasks, notes, and repo URL.  
+
+Add error handling for invalid/missing fields during JSON import, ensuring safe defaults and nondestructive feedback. 
+
+Build a single-file app named index.html using vanilla HTML/CSS/JavaScript (no frameworks, or external dependencies) which should include: 
+
+A textbox to store the GitHub repo URL.  
+
+A list of 12 tasks (e.g.,  
+
+Project Tasks Section 
+
+Project1: Setup 
+
+Project2: Model Topography 
+
+Project3: Deep Research Brief 
+
+Project4: Tracker App 
+
+Project5: Data Analysis Memo 
+
+Project6: Visual Explainer 
+
+Project7: Information Pipeline 
+
+Project8: Progress Artifacts 
+
+Project8: Ollama 
+
+Project9: Progress Artifacts 
+
+Project9: AI-Powered Build 
+
+Project10: HackTheBox) 
+
+For each task:  
+
+Include checkbox next to the Project name to mark completion. 
+
+A multiline notes text area directly under the task. 
+
+A ‘Save’ button that exports all data as a JSON file (e.g., progress.json)  
+
+      The json file will contain: 
+
+`repoUrl (string),  
+
+an array of tasks with [title, completed (boolean), and notes (string)]. 
+
+ 
+
+A ‘Load’ button that imports a JSON file and populates the UI (repo URL, checkboxes, notes).  
+
+Validate imported JSON (schema + safe defaults); ignore unknown fields; handle errors with a user-friendly message.  
+
+Keep all logic client-side only; no network calls or external storage.  
+
+Ensure accessible labels, keyboard navigation, and readable contrast.  
+
+Default state: all tasks unchecked, notes empty, repo URL empty.  
+
+ 

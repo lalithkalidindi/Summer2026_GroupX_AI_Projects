@@ -1,0 +1,65 @@
+{
+  "repoUrl": "https://github.com/sokhi-76/Summer2026_Group3_AI_Project",
+  "tasks": [
+    {
+      "title": "Setup",
+      "completed": true,
+      "notes": "Created GitHub Repos\nIntroduced one another"
+    },
+    {
+      "title": "Model Topography",
+      "completed": true,
+      "notes": "Got introduction to different AI and used 5"
+    },
+    {
+      "title": "Deep Research Brief",
+      "completed": true,
+      "notes": "Went through sources for our specific topic\nVerified 5 sources together - different types of sources as well."
+    },
+    {
+      "title": "Tracker App",
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "title": "Data Analysis Memo",
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "title": "Visual Explainer",
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "title": "Information Pipeline",
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "title": "Progress Artifacts",
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "title": "Ollama",
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "title": "Progress Artifacts",
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "title": "AI-Powered Build",
+      "completed": false,
+      "notes": ""
+    },
+    {
+      "title": "HackTheBox",
+      "completed": false,
+      "notes": ""
+    }
+  ]
+}
