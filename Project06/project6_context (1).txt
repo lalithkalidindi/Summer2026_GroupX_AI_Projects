@@ -1,0 +1,80 @@
+📄 One‑Page Handoff: Cybersecurity Knight Visualization Concept
+🎯 Objective
+Create a high-quality visual illustration of a medieval knight whose equipment represents practical cybersecurity habits, defending against a dragon symbolizing cyber-attacks.
+
+🧠 Core Concept
+The knight is a metaphor for a well-protected digital user. Each piece of gear represents a real-world cybersecurity practice. The dragon represents threats such as hacking, phishing, malware, and data breaches.
+
+🧩 Required Visual Elements
+🛡️ Knight (Primary Subject)
+
+Style: Clean, polished, high-quality illustration (not overly dark; brighter, readable tones)
+Pose: Defensive or mid-battle stance facing the dragon
+Armor: Modern medieval aesthetic with clearly readable labels
+
+
+⚔️ Weapons & Gear Mapping
+
+
+ItemLabel (exact text)MeaningSwordSTRONGPASSWORDStrong, unique passwordsShieldMULTIFACTOR AUTHENTICATIONMFA protectionBreAWARENESSPhishing awareness & trainingArmor (Subtle implication of updates/patchesOngoing security maintenance(Optional)Password Manager icon or subtle markingSecure credential storage
+
+🐉 Dragon (Threat Representation)
+
+Must be clearly labeled: “CYBER ATTACK”
+Appearance: Classic dragon (fire-breathing), symbolizing danger
+Role: Active attacker (breathing fire toward the knight)
+
+
+🎨 Visual Requirements
+
+Lighting: Brighter, less dark than typical fantasy scenes
+Clarity: All labels must be large and readable
+Composition:
+
+Knight on one side, dragon on the other
+Action-oriented (defense or confrontation)
+
+
+Style: Slightly stylized or semi-flat illustration works well for educational use
+Count accuracy:
+
+Only one sword
+No duplicate elements
+
+
+
+
+✅ Key Constraints / Lessons Learned
+
+Avoid:
+
+Multiple swords (must be exactly one)
+Dark, hard-to-read scenes
+Missing or incorrect labels
+
+
+Ensure:
+
+Spelling is correct and consistent (e.g., “MULTIFACTOR AUTHENTICATION”)
+Labels are on the objects themselves (not floating randomly)
+The dragon is explicitly tied to “Cyber Attack”
+
+
+
+
+🧾 Reusable Prompt Template
+Use this as a base for future generations:
+
+Create a high-quality illustration of a medieval knight representing cybersecurity best practices. The knight is facing a dragon labeled “CYBER ATTACK.” The knight holds one sword labeled “STRONGPASSWORD,” carries a shield labeled “MULTIFACTOR AUTHENTICATION,” and wears a breastplate labeled “AWARENESS.” The scene should be bright, clear, and easy to read, with a clean, professional style. The dragon should appear threatening, breathing fire, while the knight stands in defense. Ensure only one sword is present and all labels are clearly visible on their respective items.
+
+
+🔄 Adaptability
+This concept can easily be reused by:
+
+Swapping labels (e.g., “Zero Trust,” “Encryption”)
+Changing threat (e.g., “Ransomware,” “Phishing”)
+Adjusting style (cartoon, realistic, infographic)
+
+
+Summary:
+This visualization translates cybersecurity habits into an intuitive, memorable visual metaphor—making it ideal for training, presentations, or awareness campaigns.

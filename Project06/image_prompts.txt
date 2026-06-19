@@ -1,0 +1,28 @@
+Here is a final polished, single-shot image generation prompt designed to produce the intended infographic correctly in one attempt:
+
+🎯 Final One‑Go Image Prompt
+
+Create a high-quality, bright, clean infographic-style illustration of a medieval knight representing cybersecurity best practices, facing a dragon labeled “CYBER ATTACK.”
+The knight stands in a defensive battle pose with exactly one sword clearly labeled “STRONGPASSWORD” engraved along the blade.
+The knight carries a large shield labeled in bold, uppercase letters: “MULTIFACTOR AUTHENTICATION.”
+The knight’s breastplate (chest armor) is clearly labeled “AWARENESS.”
+The armor should look polished and modern medieval, subtly suggesting protection and security (representing updates and security patches).
+The dragon is large, threatening, and breathing fire toward the knight, with the words “CYBER ATTACK” clearly visible near or on the dragon.
+Visual style requirements:
+
+Bright, well-lit scene (not dark or gloomy)
+Clean, professional, educational infographic style
+High contrast for readability
+All labels must be large, crisp, and easy to read
+Balanced composition: dragon on one side, knight on the other
+No duplicate weapons or extra swords
+
+The overall tone should communicate strength, protection, and digital safety awareness, suitable for a cybersecurity training or presentation visual.
+
+
+This prompt removes ambiguity and enforces:
+
+✅ Correct labels
+✅ Single sword
+✅ Bright, readable design
+✅ Clear cybersecurity metaphor
